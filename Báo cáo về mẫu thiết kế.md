@@ -9,7 +9,6 @@
 
 
 ## **2. Nhóm Structural**
-> Các mẫu có kết cấu giống với mẫu chuẩn, không có sự khác nhau, gần như giống hệt so với mẫu chuẩn về mọi mặt.
 ### Adapter:
 Do vấn đề tương thích, thay đổi interface của một lớp thành một interface khác phù hợp với yêu cầu người sử dụng lớp.
 Giống:
